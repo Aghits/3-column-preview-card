@@ -32,8 +32,8 @@ Users should be able to:
 ![](./images/website_screenshot.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://elastic-carson-08aac9.netlify.app/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/3-column-preview-card-using-vanilla-css-O27e4iaU5)
+- Live Site URL: [Website](https://elastic-carson-08aac9.netlify.app/)
 
 ## My process
 
@@ -45,5 +45,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Aghits](https://www.your-site.com)
-- Frontend Mentor - [@Aghits](https://www.frontendmentor.io/profile/yourusername)"# 3_column_frontmentor" 
+- Website - [Aghits](https://aghitsnew.netlify.com)
+- Frontend Mentor - [@Aghits](https://www.frontendmentor.io/profile/Aghits)"# 3_column_frontmentor" 
