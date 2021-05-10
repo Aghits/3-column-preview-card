@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./website_screenshot.png)
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
